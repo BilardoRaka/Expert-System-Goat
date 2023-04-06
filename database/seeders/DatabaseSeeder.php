@@ -188,7 +188,7 @@ class DatabaseSeeder extends Seeder
         Gejala::create([
             'id' => 'G007',
             'gejala' => 'Kulit terdapat bercak merah dan berbisul kecil-kecil',
-            'ya' => 'GOO8',
+            'ya' => 'G008',
             'tidak' => 'G017'
         ]);
         Gejala::create([
